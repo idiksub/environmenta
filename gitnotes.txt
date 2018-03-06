@@ -1,0 +1,6 @@
+git clone https://github.com/kenskyfish/environmenta.git
+make new file gitnotes.txt
+git add gitnotes.txt
+git commit -a
+vi commit notes
+git push https://github.com/kenskyfish/environmenta.git
